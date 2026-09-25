@@ -1,0 +1,9 @@
+streamlit-option-menu
+streamlit>=1.34.0
+pytz
+pandas
+plotly
+pymongo
+sqlalchemy
+python-dateutil
+streamlit-cookies-controller
